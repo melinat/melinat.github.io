@@ -1,0 +1,40 @@
+body {
+  margin: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  display: flex;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.links {
+  justify-content: center;
+  padding-bottom: 50px;
+}
+
+.header-link {
+  padding-left: 7px;
+  padding-right: 7px;
+}
+
+.headshot {
+  border-radius: 50%;
+  height: 400px;
+  padding-right: 50px;
+}
+
+i {
+  padding-right: 3px;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: grey;
+}
