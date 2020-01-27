@@ -14,6 +14,7 @@ body {
 .links {
   justify-content: center;
   padding-bottom: 50px;
+  flex-wrap: wrap;
 }
 
 .header-link {
@@ -24,7 +25,12 @@ body {
 .headshot {
   border-radius: 50%;
   height: 400px;
+  width: 400px;
   padding-right: 50px;
+}
+
+.content {
+  align-items: center;
 }
 
 i {
@@ -41,4 +47,21 @@ a:hover {
 
 .about-me {
   max-width: 50vw;
+}
+
+@media only screen and (max-width: 768px) {
+  body {
+    margin: 31px;
+  }
+  .links {
+    padding-bottom: 30px;
+  }
+  .content {
+    flex-direction: column;
+  }
+  .headshot {
+    height: 200px;
+    width: 200px;
+    padding-right: 0px;
+  }
 }
