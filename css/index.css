@@ -59,6 +59,9 @@ a:hover {
   .content {
     flex-direction: column;
   }
+  .about-me {
+    max-width: unset;
+  }
   .headshot {
     height: 200px;
     width: 200px;
