@@ -13,7 +13,7 @@ body {
 
 .links {
   justify-content: center;
-  padding-bottom: 50px;
+  padding-bottom: 40px;
   flex-wrap: wrap;
 }
 
@@ -24,8 +24,8 @@ body {
 
 .headshot {
   border-radius: 50%;
-  height: 400px;
-  width: 400px;
+  height: 350px;
+  width: 350px;
   padding-right: 50px;
 }
 
@@ -47,6 +47,20 @@ a:hover {
 
 .about-me {
   max-width: 50vw;
+}
+
+.publications {
+  padding-top: 10px;
+}
+
+
+.pub {
+  max-width: 80vw;
+}
+
+.pub-title {
+  padding-bottom: 3px;
+  font-weight: bold;
 }
 
 @media only screen and (max-width: 768px) {
