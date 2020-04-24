@@ -79,6 +79,9 @@ a:hover {
   .about-me {
     max-width: unset;
   }
+  .headshot-container {
+    padding-right: 0px;
+  }
   .headshot {
     height: 200px;
     width: 200px;
