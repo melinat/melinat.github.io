@@ -22,11 +22,14 @@ body {
   padding-right: 7px;
 }
 
+.headshot-container {
+  padding-right: 50px;
+}
+
 .headshot {
   border-radius: 50%;
   height: 350px;
   width: 350px;
-  padding-right: 50px;
 }
 
 .content {
