@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/melinat
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://melinat.github.io
+  * I am melinat (https://keybase.io/melinat) on keybase.
+  * I have a public key ASBbPJlxHhfo2w0wKQWI00KOp-2H7O-s3ZwhDnWhY0kqNgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205b3c99711e17e8db0d30290588d3428ea7ed87ecefacdd9c210e75a163492a360a",
+      "host": "keybase.io",
+      "kid": "01205b3c99711e17e8db0d30290588d3428ea7ed87ecefacdd9c210e75a163492a360a",
+      "uid": "91c394075f7cce6715ebbda599be2619",
+      "username": "melinat"
+    },
+    "merkle_root": {
+      "ctime": 1583201323,
+      "hash": "04e452f120e92ead95d0ee69e772ca7fdc1179391175462b95e5e50f3f3f1005f9f93f0aa4716c33883c57299dd6e48675e7723860f503d63188733f89e5c583",
+      "hash_meta": "bab09f723a8f207d904b180f2ae6f8d4365554caa7a2b5e2885ce4cebe3f53ec",
+      "seqno": 14929311
+    },
+    "service": {
+      "entropy": "+wZsKJNsnetCiPPRrCDVbWNQ",
+      "hostname": "melinat.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.1"
+  },
+  "ctime": 1583201339,
+  "expire_in": 504576000,
+  "prev": "4a4c7382b90c9a39f221f1f0c4b84bc7651c7cadcb74bdf0a7e48be255fe626f",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWzyZcR4X6NsNMCkFiNNCjqfth+zvrN2cIQ51oWNJKjYKp3BheWxvYWTESpcCBsQgSkxzgrkMmjnyIfHwxLhLx2UcfK3LdL3wp+SL4lX+Ym/EIMqrSzQxJadTwCKXAoqcOEsL0y9ySFGz+/APifPQgev5AgHCo3NpZ8RAxzAcRcYMr4gkZ82WRa9B+lrorxhSiWrWnCk8rX3IGtS63/kiYeeifdbPNuzz0OUr4OmTWCDOJtdevmaTwWRmAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFnL1NotTX6jS8960RfeAmESfTNVW0LjjEcVwg+Az9iIo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/melinat
+
+==================================================================
